@@ -2,7 +2,7 @@
   "name": "monster-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ingvaldorbeck.github.io/react-training",
+  "homepage": "https://ingvaldinho.github.io/react-training",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
